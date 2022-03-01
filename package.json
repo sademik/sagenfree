@@ -3,6 +3,19 @@
     "displayName": "sagenfree",
     "description": "faensage's dark theme",
     "version": "0.0.1",
+    "publisher": "faensage",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sademik/sagenfree"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "faensage",
+        "sagenfree",
+        "faensage dark",
+        "dark pastel"
+    ],
     "engines": {
         "vscode": "^1.64.0"
     },
